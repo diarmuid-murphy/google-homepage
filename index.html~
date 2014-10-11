@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Google</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body>
+		<img id="logo" src="https://www.google.com/images/srpr/logo11w.png" alt="Google Search">
+		<input id="searchBox" name="search" type="text">
+		<input id="" type="submit" value="Google Search">
+		<input id="" type="submit" value="I'm feeling lucky">
+	</body>
+</html>

@@ -1,0 +1,16 @@
+#logo {
+    display: block;
+    margin: 150px auto 20px auto;
+    width: 20%;
+}
+
+#searchBox {
+    display: block;
+    margin: 15px auto;
+    width: 300px;
+}
+
+.buttons {
+    width: 225px;
+    margin: 0 auto;
+}
